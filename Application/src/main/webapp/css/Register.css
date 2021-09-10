@@ -1,0 +1,50 @@
+@charset "UTF-8";
+body
+{
+	background-image:url("Train1.jpg");
+}
+.form{
+	margin-top:300px;
+	margin-right:650px;
+	margin-left:650px;
+	
+}
+.username,.mail , .password ,.phone,.mail
+{
+	margin:15px;
+	margin-right:20px;
+	
+}
+.num 
+{
+	margin:15px;
+	margin-left:40px;
+}
+
+.password
+{
+	margin-right:40px;
+}
+.phone
+{
+	margin-right:60px;
+}
+.username
+{
+	margin-right:40px;
+}
+
+
+.btn
+{
+	margin:15px;
+	margin-left:50px;
+}
+.form:hover
+{
+	background-color:#E2C2B9;
+	opacity: 0.8;
+	border:black;
+	
+}
+

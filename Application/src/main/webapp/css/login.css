@@ -1,0 +1,37 @@
+body
+{
+	background-image:url("Train1.jpg");
+}
+.form{
+	margin-top:350px;
+	margin-right:650px;
+	margin-left:650px;
+	
+}
+.uname
+{
+	margin:15px;
+	margin-right:10px;
+
+	
+}
+.pd
+{
+	margin:15px;
+	margin-left:auto;
+	
+}
+
+
+.btn
+{
+	margin:15px;
+	margin-left:50px;
+}
+.form:hover
+{
+	background-color:#E2C2B9;
+	opacity: 0.8;
+	border:black;
+	
+}
